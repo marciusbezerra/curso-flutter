@@ -2,7 +2,7 @@
 
 _Autor:\
 Marcius Bezerra\
-[marciusbezerr@gmail.com](mailto:marciusbezerr@gmail.com)_
+[marciusbezerra@gmail.com](mailto:marciusbezerra@gmail.com)_
 
 ![Acesso-https](readme.png)
 
